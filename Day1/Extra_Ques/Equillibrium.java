@@ -1,4 +1,4 @@
-package Day1;
+package Extra_Ques;
 
 import java.util.*;
 
